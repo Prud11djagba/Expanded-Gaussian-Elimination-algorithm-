@@ -15,3 +15,5 @@ compute the smallest R-subgroup containing a given set of vectors.
 Finally, we classify the subspaces of finite dimensional Beidleman
 near-vector spaces.
 
+We have developped in SAGEMATH the following Algorithm that we have invented in the following paper: https://doi.org/10.1080/03081087.2019.1582610
+![image alt](https://github.com/Prud11djagba/Expanded-Gaussian-Elimination-algorithm-/blob/156c9c20671845ba0d3ddadd6f7fea8c12e1b08e/EGE.png)
